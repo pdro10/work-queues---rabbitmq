@@ -1,6 +1,7 @@
+# Como executar o conteúdo:
 Para executar você precisará ter o python e o rabbitmq instalado e ativo
 
-Como usar
+# Como usar:
 
 Instale PIKA: 
 python -m pip install pika --upgrade
