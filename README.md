@@ -1,4 +1,6 @@
 # Como executar o conteúdo:
+
+primeiro clone o repositorio,
 Para executar você precisará ter o python e o rabbitmq instalado e ativo
 
 # Como usar:
